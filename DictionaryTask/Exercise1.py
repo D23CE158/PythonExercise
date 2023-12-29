@@ -27,5 +27,6 @@ print([student.keys()])     #get all keys as a list
 print([student.values()])   #get all values as a list
 print(student.items())      #get all items as a list of tuples
 print(student.pop('address'))   #delete address
+print(student)
 del dog     #delete dog dictionary
 
